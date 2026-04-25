@@ -1,7 +1,3 @@
-# Tadashi Nakai's Tools
-
-ブラウザだけで動く、研究・執筆のための自作Webツール集。
-
 ## 自作プログラム
 
 ### [rifff《リュフフ》](https://tools.nakaix.com/rifff/)
