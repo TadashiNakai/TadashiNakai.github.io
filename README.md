@@ -1,6 +1,6 @@
 ## 自作プログラム
 
-### [rifff《リュフフ》](https://tools.nakaix.com/rifff/)
+### [rifff《ﾘｭﾌﾌ》](https://tools.nakaix.com/rifff/)
 
 リッチテキスト対応の差分表示ツール。テキストの差分だけでなく、太字・斜体・下線・上付き・下付きといった書式の変化もオレンジ色でハイライトして検出します。Word 等からコピー＆ペーストで書式を保ったまま貼り付けられ、完全ローカル処理でデータはどこにも送信されません。
 
@@ -15,3 +15,9 @@ AIサービスへのテキスト入力前に個人情報を伏せ字に置き換
 ### [dnacnv](https://tools.nakaix.com/dnacnv/)
 
 DNA配列をアミノ酸配列に変換し、コドン使用頻度を表示するWebツール。2000年にPerlで作成したCGIプログラムをHTML+JavaScriptに移植したもので、インストール不要、ブラウザだけで動作します。
+
+## 移植プログラム
+
+### [difff《ﾃﾞｭﾌﾌ》JS版](https://tools.nakaix.com/difff-js/)
+
+Webベースのテキスト比較ツール [difff《ﾃﾞｭﾌﾌ》](https://difff.jp/) のJavaScript移植版。オリジナルのdifffの中で呼び出されているUnix diffプログラムもJavaScriptに移植することで動作を忠実に再現しました。完全ローカル処理でデータはどこにも送信されません。
