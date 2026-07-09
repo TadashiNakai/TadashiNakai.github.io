@@ -30,7 +30,7 @@ Webベースのテキスト比較ツール [difff《ﾃﾞｭﾌﾌ》](https://
 
 ### プロフィール：Tadashi NAKAI, Ph.D., Professor
 
-大学でライフサイエンス分野の研究を行う傍ら、生成AIを活用したプログラミング（vibecoding）による業務効率化やツール開発を行っています。個人の活動をまとめた総合トップページは [www.nakaix.com](https://www.nakaix.com) です。自作ツール群は [Tools](https://tools.nakaix.com) にまとめています。また、学術的な資料やアーカイブは [Repository](https://repository.nakaix.com) に、日常の話題や雑記は [Blog](https://blog.nakaix.com) に掲載しています。日々の開発状況は [X (Twitter)](https://x.com/TadashiNakai) でも発信中です。
+大学でライフサイエンス分野の研究を行う傍ら、生成AIを活用したプログラミングによる業務効率化やツール開発を行っています。個人の活動をまとめた総合トップページは [nakaix.com](https://nakaix.com) です。自作ツール群は [Tools](https://tools.nakaix.com) にまとめています。また、学術的な資料やアーカイブは [Repository](https://repository.nakaix.com) に、日常の話題や雑記は [Blog](https://blog.nakaix.com) に掲載しています。日々の開発状況は [X (Twitter)](https://x.com/TadashiNakai) でも発信中です。
 
 ### 開発ノート・関連記事
 
